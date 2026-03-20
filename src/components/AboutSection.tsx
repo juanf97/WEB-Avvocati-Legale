@@ -17,14 +17,11 @@ const AboutSection = () => {
             <h2 className="text-4xl md:text-5xl font-display font-bold text-foreground mb-6">
               Sobre Nosotros
             </h2>
-            <p className="text-muted-foreground font-body leading-relaxed mb-4">
-              Soy el Licenciado Carlos Mendoza, abogado egresado de la Universidad Nacional con especialización en Derecho Penal y Corporativo. A lo largo de mi carrera, he representado a cientos de clientes en casos de alta complejidad.
+            <p className="text-muted-foreground font-body leading-relaxed text-justify mb-4">
+              En <strong>AVVOCATILEGALE</strong>, entendemos el Derecho Penal no como un ejercicio mecánico, sino como una disciplina de alta complejidad que exige rigor intelectual, analítica profunda y una defensa estratégica. Bajo la dirección de nuestro <strong>Socio Director, el Dr. David Esteban Giraldo Calderón</strong>, nos hemos consolidado como una firma especializada en la representación de intereses particulares ante el sistema penal acusatorio y corporativos.
             </p>
-            <p className="text-muted-foreground font-body leading-relaxed mb-4">
-              Mi compromiso es brindar una representación legal de excelencia, combinando un profundo conocimiento jurídico con un trato humano y personalizado para cada caso.
-            </p>
-            <p className="text-muted-foreground font-body leading-relaxed">
-              He sido reconocido por diversas instituciones por mi labor destacada en la defensa de los derechos civiles y he participado como conferencista en foros internacionales de derecho.
+            <p className="text-muted-foreground font-body leading-relaxed text-justify mb-4">
+              En <strong>AVVOCATILEGALE</strong>, la defensa de la libertad se sustenta en el más alto rigor académico y la excelencia técnica. Combinamos la ética profesional con un compromiso absoluto por la defensa del ser humano. No solo representamos casos; diseñamos estrategias que integran el derecho, la filosofía y la investigación criminal para garantizar el restablecimiento efectivo de los derechos de nuestros representados.
             </p>
           </div>
           <div className="space-y-6">
